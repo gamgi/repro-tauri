@@ -58,6 +58,7 @@
         "height": 600,
         "resizable": true,
         "title": "repro-tauri",
+        "url": "/parent-index.html",
         "width": 800
       }
     ]
